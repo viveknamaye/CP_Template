@@ -1,6 +1,6 @@
 # CP_Template
 
-**Hii !!":smile:**
+**Hii !!**:smile:
 
 This is the template I use for competitive programming.
 I use c++ for competitive programming like most of the programmers.
