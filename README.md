@@ -9,7 +9,3 @@ As you can see my [template](./template.cpp) is very short. The reason is I don'
 
 When I am able to do that and I want to reduce time while coding I will gradually add more macros and other useful features in the template.
 
-
-
-#### **NOTE** : 
-I will also be adding all the problem links in a new file in this repo which I find intersting and tough 💪 .
